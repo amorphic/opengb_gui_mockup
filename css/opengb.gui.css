@@ -106,3 +106,14 @@ body {
 .checklist-text {
   margin-bottom: 30px;
 }
+
+.radio-inline input[type=radio]
+{
+  width:40px;
+  height:40px;
+  margin-left: -33px; !important
+}
+
+.radio-inline {
+  line-height: 3.2;
+}
